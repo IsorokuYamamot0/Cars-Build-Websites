@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <ul>
+    <li><a href="#index">Home</a></li>
+    <li><a href="#Database">Database</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ul>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="header">
+    <h1>Top 10 Hyper cars</h1>
+    <p>Created by Nishil Singh</p>
+  </div>
+
+  <h1>Welcome to top 10 hyper cars website.</h1>
+
+  <h2> Terms of use:</h2>
+
+  <h3> Public cannot claim it to be their information. <h3>
+
+  <h1>About us:</h1>
+
+  <h2>This website is for a assesment for NCEA for the NZ education and isn't going to be maintained at all times but I (creator) wil drop in to make any bug fixes and small changes to the website.</h2>
+
+  <h1>This is the news or update section:</h1>
+
+  <h2> Massive update to the update at this time. </h2>
+
+  <h1>Sponsers: </h1>
+
+  <a href="https://w0lt0r.github.io/backroom-website/">Backr00ms</a>
+  </div>
+  <div class="">
+    <div class="hero-text">
+    </div>
+  </div>
+
+</body>
+
+</html>
